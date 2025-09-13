@@ -10,5 +10,5 @@ we use existing foundation model to extract features from H&E image. And downstr
 Compared to existing tools, including **ST-Net**, **HisToGene**, **Hist2ST**, BCSTain can predict a **larger number** of gene of spatial expression. BCSTain also demostrates better perfomance in both **gene expression prediction accuracy** and s**patial region identification**.  
 
 ## figure  
-![Model display diagram](./)   
+![Model display diagram](./images/model.pdf)   
 ![Comparison of gene expression](./)
