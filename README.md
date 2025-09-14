@@ -11,4 +11,4 @@ Compared to existing tools, including **ST-Net**, **HisToGene**, **Hist2ST**, BC
 
 ## figure  
 ![Model display diagram](./images/model.pdf)   
-![Comparison of gene expression](./)
+
